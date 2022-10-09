@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://github.com/Louise-Huang/Louise-Huang/blob/main/github_intrduction.gif?raw=true)
 
 <!--
 **Louise-Huang/Louise-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
